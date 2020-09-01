@@ -1,0 +1,8 @@
+clone -> copies the chosen repo via https or ssh
+echo -> creates new file
+cat -> creates and appends data to new file
+vim -> creates new file and allows to edit right away (check: https://stackoverflow.com/questions/28978463/how-can-i-make-a-text-file-in-git-bash)
+add -> tracks files and adds changes to Git repo
+commit -> saves changes to Git repo
+push -> pushes the changes to remote Git repo from local machine
+pull -> pull/download the changes from a remote Git repo to local machine
